@@ -1,0 +1,79 @@
+[02-Jul-2020 12:14:58 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::updateGang() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 606
+[02-Jul-2020 12:15:03 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::updateGang() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 606
+[02-Jul-2020 12:15:03 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::updateGang() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 606
+[02-Jul-2020 12:15:03 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::updateGang() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 606
+[02-Jul-2020 12:15:03 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::updateGang() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 606
+[02-Jul-2020 12:15:24 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:43 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:43 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:43 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:43 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[02-Jul-2020 12:15:49 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\MobileController::seachGangs() in /home/dim/dim/app/Http/Controllers/Api/MobileController.php on line 631
+[06-Jul-2020 15:25:55 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 147456 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 705
+[07-Jul-2020 15:48:14 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[08-Jul-2020 08:19:36 UTC] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 253952 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 49
+[08-Jul-2020 15:46:46 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[08-Jul-2020 15:47:06 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 589824 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 252
+[08-Jul-2020 15:47:07 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 589824 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 252
+[08-Jul-2020 15:47:07 UTC] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 253952 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 49
+[09-Jul-2020 05:15:05 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 147456 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 705
+[09-Jul-2020 05:46:25 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 12288 bytes) in /home/dim/dim/vendor/symfony/routing/Route.php on line 472
+[09-Jul-2020 05:46:25 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 65536 bytes) in /home/dim/dim/vendor/composer/composer/src/Composer/Console/Application.php on line 42
+[09-Jul-2020 05:49:34 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 32768 bytes) in /home/dim/dim/vendor/symfony/routing/Route.php on line 523
+[09-Jul-2020 05:53:01 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[09-Jul-2020 05:53:06 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[09-Jul-2020 05:58:55 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 147456 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 705
+[09-Jul-2020 06:00:34 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[09-Jul-2020 06:18:51 UTC] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 512000 bytes) in /home/dim/dim/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 138
+[09-Jul-2020 06:18:52 UTC] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 512000 bytes) in /home/dim/dim/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 138
+[09-Jul-2020 06:18:52 UTC] PHP Fatal error:  Out of memory (allocated 20971520) (tried to allocate 630784 bytes) in /home/dim/dim/vendor/facade/ignition/src/ErrorPage/ErrorPageHandler.php on line 73
+[09-Jul-2020 06:18:53 UTC] PHP Fatal error:  Out of memory (allocated 20971520) (tried to allocate 630784 bytes) in /home/dim/dim/vendor/facade/ignition/src/ErrorPage/ErrorPageHandler.php on line 73
+[10-Jul-2020 16:48:34 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 65536 bytes) in /home/dim/dim/vendor/composer/composer/src/Composer/Console/Application.php on line 42
+[10-Jul-2020 17:08:31 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[10-Jul-2020 17:17:27 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 65536 bytes) in /home/dim/dim/vendor/composer/composer/src/Composer/Console/Application.php on line 42
+[10-Jul-2020 17:17:29 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 12288 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 2266
+[10-Jul-2020 17:17:30 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 589824 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 252
+[10-Jul-2020 17:17:27 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[10-Jul-2020 17:18:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Illuminate\Http\json_decode() in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Http/Request.php:354
+Stack trace:
+#0 /home/dim/dim/vendor/laravel/framework/src/Illuminate/Http/Request.php(372): Illuminate\Http\Request->json()
+#1 /home/dim/dim/vendor/laravel/framework/src/Illuminate/Http/Request.php(435): Illuminate\Http\Request->getInputSource()
+#2 /home/dim/dim/vendor/laravel/framework/src/Illuminate/Http/Request.php(64): Illuminate\Http\Request::createFromBase(Object(Symfony\Component\HttpFoundation\Request))
+#3 /home/dim/public_html/index.php(55): Illuminate\Http\Request::capture()
+#4 {main}
+  thrown in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 354
+[10-Jul-2020 17:18:18 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 147456 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 705
+[10-Jul-2020 17:21:49 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[10-Jul-2020 17:23:34 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[10-Jul-2020 17:29:03 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 20480 bytes) in /home/dim/dim/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateImmutableType.php on line 70
+[10-Jul-2020 17:33:22 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[10-Jul-2020 17:33:18 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[10-Jul-2020 17:44:48 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 589824 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 252
+[11-Jul-2020 08:51:33 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[11-Jul-2020 12:41:37 UTC] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 253952 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 49
+[11-Jul-2020 12:43:31 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 589824 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 252
+[13-Jul-2020 10:22:38 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 12288 bytes) in /home/dim/dim/vendor/symfony/routing/Route.php on line 472
+[13-Jul-2020 10:22:42 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[15-Jul-2020 08:33:37 UTC] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 20480 bytes) in /home/dim/dim/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php on line 31
+[15-Jul-2020 08:50:32 UTC] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 32768 bytes) in /home/dim/dim/vendor/symfony/http-foundation/Response.php on line 359
+[15-Jul-2020 08:50:34 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[15-Jul-2020 11:16:57 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 32768 bytes) in /home/dim/dim/vendor/symfony/routing/Route.php on line 523
+[15-Jul-2020 11:16:57 UTC] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 253952 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 49
+[15-Jul-2020 11:16:59 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 65536 bytes) in /home/dim/dim/vendor/composer/composer/src/Composer/Console/Application.php on line 42
+[15-Jul-2020 11:16:59 UTC] PHP Fatal error:  Out of memory (allocated 20971520) (tried to allocate 512000 bytes) in /home/dim/dim/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 138
+[15-Jul-2020 16:04:44 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 175
+[15-Jul-2020 16:16:35 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[15-Jul-2020 16:52:08 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 12288 bytes) in /home/dim/dim/vendor/symfony/routing/Route.php on line 472
+[15-Jul-2020 16:52:13 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 12288 bytes) in /home/dim/dim/vendor/symfony/routing/Route.php on line 472
+[15-Jul-2020 17:20:56 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[15-Jul-2020 17:20:55 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 36864 bytes) in /home/dim/dim/vendor/composer/autoload_static.php on line 4139
+[15-Jul-2020 17:31:29 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 589824 bytes) in /home/dim/dim/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 252
+[15-Jul-2020 17:45:03 UTC] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 4096 bytes) in /home/dim/dim/vendor/symfony/http-foundation/Response.php on line 792
+[26-Aug-2020 08:38:27 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/dim/lambert/storage/framework/views/0b0c45c515db0edd3ad30231fdce89b8fc25c0a6.php on line 125
